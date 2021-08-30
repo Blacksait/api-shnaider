@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adept-crossing-258016",
+  "private_key_id": "098ec42a6a1281836f35611ccdd30f85948dafe6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7JADWpIbDLCv6\nThdYAMsCa/3xVSZ5qu7GqGu6vzCVT/dRK+CcC+pzDrck/gLmTDEpcE+kQ/9HzluJ\nDdHyZ0ycEj5W1Y3YSKFy+d/m28VxBV3TODNf4HiHqqpdQTpggFZeGQOLEOFPZirI\nMBYil6TNiiMqeaUVHQWNJhwf5BqMNA3VsEAqUrc7uu/VsQZHVylR4nejPF4zp5m8\nS3BVispani766rJlb1yz19avv6j26YYWXY8eSgF+abnJsAuboFbzphZdvAbz1++8\nwbsie58fG1xDk3UKDgz0o7qag2TBqgectroB3AtL+PpkeqaCAtrZq35yR3GZb9Fs\nLUypIU+3AgMBAAECggEAWvKSXb4zqCKNdOYCvkgUYSbukRyayEJkLLOpN2a3S7lD\nLnWugOfhlu0t4JJ6AkZBFix46BILvG/zWFYZFD9Tof3TwgujFdumauQ5Bk8EU3sS\nMBZ+EThcG0K77PpITqHQV4a8jBc2CIpUfFmySDl+ZE2f7YKU0f/6tLAytuT6aewF\nBA3bFezsJ1D/jCUwLL5+87nClo2wSv6ukPD7lkQospK/Tbko1Xvp9sPfMeLW1Fae\nZgYtY3CqL43MIVsScBapzwE97Yw+1m4430mQPMtzpqj7ei4n2RQALRwGsmX0E89J\nsEoz9qnyggPn9rJWh88T9CuuzFQ8hLp7tn0tMlOdQQKBgQDrf4r2LQS2vJ3i6N22\nmcIKueweNdqoeSDJAw5MB9WZ2qT6csoW9xsLZatYUo4rrfBytRSLwF286bjNDzm1\nHCxbYFqDbWplgf3cOWwI1KGSDSgqoitPE6j37ykfm5LjK56ZTnJguAFDPrvkCnvQ\nml1G48p34VILwOmT6b99zFYX5wKBgQDLbrvjzNp/+OABY88tY86r9V7WK2PfjRsd\nLlXYaveKb4RKRyWmfFMyXvUx2OixxxaqHQpronvfPXNHPUo2c0qOrwAsTq4HV0lv\nkH85E7WvXbEjnpi6T98ZnCrr5lKokhx9qT0AFFMMPmCtpd5iuUni1Qo8LW2BjUy8\nNSXG5KHPsQKBgF0mlw3nIr0xgHZXzBNFYIajoi0U+ke3metI5SfX1XrFDIrwStWo\nqq7oaU1HYmsOo1SMIfNhhPKLtIiQJDBqU3VVeJgR+IrsT0EECaK4kKxXvfKXMPBX\ng3eGx0p0XDa1c0eKyx1My1sQ/nsmVnFeDdVTlyuyGaUCiqHyTMdywv8zAoGAd43N\nSBQU+Q5W/xocII2+YNqj8HOxjyiLHbwkYTqD3cypz0k+vDfmYPzjVncmUYwyKqlE\nfXsRF2IyxFQlsBhTYcVA8ckPh2rp0nH2AqItrTD/sHI9SYk1EQTxSI+kVkMAEW2L\nVuea4uApywNmzVgdLvyKtlDwQSm8RgNp/xhQbBECgYEAzHT0SWRbnmn/W4Eh9zS3\nO3/sJRNsu6RciFrAyIIGiq+QBScH3WmKvdkLpZS1ntXkxuBlX5UFxoiivCf7leys\nDqexxhUVtVi5gTJnPHUdXtvPyrieDnukxu8M+iwYouDOYuidNwvzAvmJL6pLyNfk\nr8lSQ14vUUIidDa3wdRMZik=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-413@adept-crossing-258016.iam.gserviceaccount.com",
+  "client_id": "117745488652705476665",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-413%40adept-crossing-258016.iam.gserviceaccount.com"
+}
